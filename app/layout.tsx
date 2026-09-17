@@ -6,6 +6,8 @@ import { Providers } from './providers'
 
 export const metadata = {
   title: 'Sayville High School',
+  description: 'Touch Hall of Fame for Sayville High School.',
+  author: 'Empire Digital Signs, LLC',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
